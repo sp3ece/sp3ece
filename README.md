@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/99099753/153272398-2bb48937-aacc-41c2-b711-d07880789cc9.png)
+<img src="https://www.codewars.com/users/slp3x/badges/large" alt="Morgen 666>
 
 
 <!--
