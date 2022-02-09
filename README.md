@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.codewars.com/users/slp3x/badges/large" alt="Morgen 666>
-
+![alt text](https://www.codewars.com/users/slp3x/badges/large)
 
 <!--
 **sp3ece/sp3ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
